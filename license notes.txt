@@ -1,0 +1,9 @@
+Site design and most code written by HTML5 UP (html5up.net | @n33co)
+
+Dojo-specific code written by Max Harms (@raelifin)
+
+All site code licenced under CCA 3.0
+
+Venus and The Night Sky Over Mammoth: https://www.flickr.com/photos/newdimensionfilms/7108632527/
+Attribution to John Lemieux
+Shared under Attribution 2.0 Generic: https://creativecommons.org/licenses/by/2.0/
